@@ -1,4 +1,3 @@
-Perfect, Priyansh. You’re building a solid base — this set covers structures, unions, pointers, dynamic memory, recursion, and function pointers — basically the core of C programming.
 
 //1. Struct for Employee Details
 
